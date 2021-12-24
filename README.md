@@ -27,19 +27,19 @@
 1. Установить python 3.6 и выше
 
 2. Установить зависимости(в консоли). 
-mouse (для работы с компьютерной мышью):
+#mouse (для работы с компьютерной мышью):
 ```
 pip install mouse
 ```
-pygame (используется для воспроизведения звука):
+#pygame (используется для воспроизведения звука):
 ```
 pip install pygame
 ```
-OpenCV (используется для работы анализатора):
+#OpenCV (используется для работы анализатора):
 ```
 pip install opencv-python
 ```
-TelegramBotAPI:
+#TelegramBotAPI:
 ```
 pip install pytelegrambotapi
 ```
